@@ -66,7 +66,7 @@ Run:
 
 ```bash
 pip install colorama pygame
-
+```
 
 Tkinter comes pre-installed with Python.
 No extra installation needed.
@@ -120,4 +120,5 @@ Language: Python
 This project is free to use for learning & personal projects.
 
 🎉 Enjoy the Game!
+
 
